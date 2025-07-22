@@ -1,1 +1,2 @@
-# Snake-game-main
+# Snake-Game
+HTML,CSS,JAVASCRIPT
